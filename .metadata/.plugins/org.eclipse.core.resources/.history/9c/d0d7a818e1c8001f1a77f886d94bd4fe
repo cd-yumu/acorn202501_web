@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>play.html</title>
+
+</head>
+<body>
+	<h1>놀아보셈</h1>
+	<p>신나게 놀아보아요?</p>
+	<img alt="../images/kim.png" src="상대경로">
+	<a href="../images/kim1.png"></a>
+</body>
+</html>

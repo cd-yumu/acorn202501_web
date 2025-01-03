@@ -1,0 +1,5 @@
+package test.survlet;
+
+public class PingServlet {
+
+}
